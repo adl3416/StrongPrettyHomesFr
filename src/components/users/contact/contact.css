@@ -1,0 +1,26 @@
+.card-body{
+    margin-top: 0;
+    margin-right: -12px;
+    margin-left: -12px;
+    padding: 1rem;     
+    text-align: start;
+    text-size-adjust: 100%;
+    text-align:left;
+}
+
+.contact{
+    gap: 0.6rem;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+}
+
+.container {
+    text-align: left;
+    position: relative;
+    display: flex;
+}
+.map{
+   padding: 2rem;
+}

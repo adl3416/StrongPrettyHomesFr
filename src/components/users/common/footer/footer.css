@@ -1,0 +1,44 @@
+.footer {
+    background-color: var(--color3);
+    color: #A7A7A7;
+    padding: 7rem;
+}
+.footer li{
+    list-style: none;
+    text-align: left;
+}
+.footer a{
+    color:rgb(206, 206, 206);
+}
+.footer a:hover{
+    color: beige;
+}
+.footer .follow-us{
+ flex-direction: row;
+    font-size: 1.7rem;
+}
+.footer ul svg {
+    color: var(--color1);
+}
+.footer .sola-yasla{
+    text-align: left;
+}
+.footer ul svg {
+    color: var(--color1);
+}
+.footer .sola-yasla{
+    text-align: left;
+}
+.footer ul {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.button {
+    background-color: #10AB29;
+    color: #fff;
+}

@@ -1,0 +1,30 @@
+.reviews-container{
+ display: flex;
+ flex-direction: column;
+ align-items:center;
+}
+.reviews-container .card{
+    width : 58%;
+    border : 1px solid #A9A9A9;
+    margin-bottom :.5rem;
+}
+.reviews-container .card .card-text,.reviews-container .card .card-title span{
+    text-align:left;
+    font-size :1rem;
+}
+
+.reviews-container .card .card-title{
+    display:flex;
+    justify-content:space-between;
+}
+
+.reviews-container .card .card-text{
+    display:flex;
+    justify-content:space-between;
+}
+
+.reviews-container .card .card-text svg{
+    color:var(--color1) !important;
+    cursor:pointer
+}
+

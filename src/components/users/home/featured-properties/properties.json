@@ -1,0 +1,114 @@
+[
+    {
+        "price":1000000,
+        "image":"fp1.jpg",
+        "category":"Apartment",
+    
+        "description":"Renovated Apartment",
+        "bedrooms":3,
+        "bathrooms":2,
+        "district":"1421 San Pedro St.",
+        "city":"Los Angeles",
+        "location":"CA 90015",
+        "country":"USA",
+        "area":340
+    },
+    {
+        "price":1000000,
+        "image":"fp2.jpg",
+        "category":"Apartment",
+   
+        "description":"Renovated Apartment",
+        "bedrooms":3,
+        "bathrooms":2,
+        "district":"1421 San Pedro St.",
+        "city":"Los Angeles",
+        "location":"CA 90015",
+        "country":"USA",
+        "area":340
+    },
+    {
+        "price":1000000,
+        "image":"fp3.jpg",
+        "category":"Apartment",
+     
+        "description":"Renovated Apartment",
+        "bedrooms":3,
+        "bathrooms":2,
+        "district":"1421 San Pedro St.",
+        "city":"Los Angeles",
+        "location":"CA 90015",
+        "country":"USA",
+        "area":340
+    },
+    {
+        "price":1000000,
+        "image":"fp1.jpg",
+        "category":"Apartment",
+    
+        "description":"Renovated Apartment",
+        "bedrooms":3,
+        "bathrooms":2,
+        "district":"1421 San Pedro St.",
+        "city":"Los Angeles",
+        "location":"CA 90015",
+        "country":"USA",
+        "area":340
+    },
+    {
+        "price":1000000,
+        "image":"fp2.jpg",
+        "category":"Apartment",
+
+        "description":"Renovated Apartment",
+        "bedrooms":3,
+        "bathrooms":2,
+        "district":"1421 San Pedro St.",
+        "city":"Los Angeles",
+        "location":"CA 90015",
+        "country":"USA",
+        "area":340
+    },
+    {
+        "price":1000000,
+        "image":"fp3.jpg",
+        "category":"Apartment",
+
+        "description":"Renovated Apartment",
+        "bedrooms":3,
+        "bathrooms":2,
+        "district":"1421 San Pedro St.",
+        "city":"Los Angeles",
+        "location":"CA 90015",
+        "country":"USA",
+        "area":340
+    },
+    {
+        "price":1000000,
+        "image":"fp1.jpg",
+        "category":"Apartment",
+
+        "description":"Renovated Apartment",
+        "bedrooms":3,
+        "bathrooms":2,
+        "district":"1421 San Pedro St.",
+        "city":"Los Angeles",
+        "location":"CA 90015",
+        "country":"USA",
+        "area":340
+    },
+    {
+        "price":1000000,
+        "image":"fp2.jpg",
+        "category":"Apartment",
+
+        "description":"Renovated Apartment",
+        "bedrooms":3,
+        "bathrooms":2,
+        "district":"1421 San Pedro St.",
+        "city":"Los Angeles",
+        "location":"CA 90015",
+        "country":"USA",
+        "area":340
+    }
+]

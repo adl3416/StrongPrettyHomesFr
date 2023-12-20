@@ -1,0 +1,119 @@
+
+.main-card{
+	width:18rem;
+   }
+   
+   .main-card .agent-card{
+	   background-color: rgb(221, 221, 221);
+   }
+
+   .image-container{
+	position:relative;
+	padding:0;
+	justify-content: center;
+	text-align:center;
+   }
+
+   .agent-card .image-container img {
+	border-radius: 5rem;
+	   height:10rem;
+	   width:10rem;
+	   margin-top: 1.8rem ;
+   }
+
+   .agent-card {
+	   position: relative;
+	   border-radius: 0.8rem !important;
+	   border: 0.5px solid rgb(236, 229, 229);
+	   margin: 1rem;
+	   height: 23rem;
+	   width: 20rem;
+	   cursor: pointer;
+   }
+   
+   .agent-card .email {
+	   left: 50px;
+	   font-size: 1.2rem;
+	   font-weight: 1rem;
+   }
+   .property-card .image-container img {
+    max-height: 220px;
+	max-height: 220px;
+}
+   
+   .property-card .card-body {
+	   text-align: center;
+	  
+   }
+   
+   .property-card .card-body nme {
+	   color: #2e2e2e;
+	   font-weight: 700;
+	   margin: 0;
+	   padding: 0;
+	   line-height: 1.2;
+	   font-size: 2rem;
+	   
+   }
+   
+   .telephone {
+	   text-align: center;
+	   font-size:1.5rem;
+   }
+
+   .telephone a:hover{
+	color: beige;	
+   }
+   
+   .telephone a{
+	   font-size:1.3rem;
+	   font-weight:3rem;
+	   text-align: center;
+	   color:black;
+   }
+   
+   .email{
+	   text-align: center;
+	   font-size:1.1rem;
+	   color: #2e2e2e !important;
+   }
+
+   .email a{
+		color: #2e2e2e !important;
+	}
+	
+	.email a:hover{
+		color: beige !important;	
+	}
+	
+	.agent h2{
+		text-align: center;
+		color: var(--color1);
+		width:19rem;
+		margin-left: 1.2rem;
+	}
+
+	.card-body .name{
+		text-align: center;
+	}
+	.card-body div{
+		margin-bottom: 1rem;
+	}
+	.agent{
+		width:19rem;
+		margin-left: 2rem;
+
+		
+		
+	}
+ 
+	@media(max-width: 900px){
+		.agent{
+		
+		margin-left: 5rem;
+
+	
+		}
+	}  
+	
+	

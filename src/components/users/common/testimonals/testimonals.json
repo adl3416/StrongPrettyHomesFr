@@ -1,0 +1,23 @@
+[
+    {
+        "image":"photo-1.jpg",
+        "name" : "Noelene Meghan",
+         "title":"CEO",
+         "message":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.Nunc purus nisl, ornare vitae quam et, rutrum egestas lorem.Aenean consectetur magna ut volutpat scelerisque.Nulla iaculis luctus elit at rhoncus.Pellentesque et ante dui. "
+       
+    },
+    {
+        "image":"photo-2.jpg",
+        "name" : "Alton Talbot",
+         "title":"Manager",
+         "message":"Curabitur neque turpis, pellentesque vel semper ut, tempor vel arcu. Nulla facilisi. Phasellus feugiat nunc eget eros varius, et mollis magna elementum."
+       
+    },
+    {
+        "image":"photo-3.jpg",
+        "name" : "Bud Scotty",
+         "title":"Sales Executive",
+         "message":"Curabitur neque turpis, pellentesque vel semper ut, tempor vel arcu. Nulla facilisi. Phasellus feugiat nunc eget eros varius, et mollis magna elementum."
+       
+    }
+]

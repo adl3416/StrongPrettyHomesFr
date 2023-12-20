@@ -1,0 +1,24 @@
+.container{
+    text-align: center;
+    position: relative;
+    display: flex;
+ }
+.container::after{
+     
+     gap: 4px;
+     width:30rem;
+     height:20rem;
+     align-items: center;
+     position: absolute;
+}
+.icon{
+    text-align: center;
+   
+  
+}
+
+.container .card .icon svg {
+    color: pink;
+    font-size: 5rem;
+}
+
